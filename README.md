@@ -1,11 +1,13 @@
 # Black Hole Graph
 
+![license](https://img.shields.io/badge/license-MIT-blue.svg)
+![obsidian](https://img.shields.io/badge/Obsidian-%E2%89%A5%201.0.0-7C3AED)
+
 把你的笔记库渲染成一个黑洞吸积盘。
 
 每篇笔记都是盘上的一个质点：链接越多的笔记离视界越近、转得越快，几乎没有链接的笔记则变成外围缓慢漂移的尘埃。整个盘会持续旋转，你可以拖动平移、滚轮缩放、点开任意一篇笔记。
 
-![license](https://img.shields.io/badge/license-MIT-blue.svg)
-![obsidian](https://img.shields.io/badge/Obsidian-%E2%89%A5%201.0.0-7C3AED)
+![Black Hole Graph 预览：笔记按链接密度围绕中央黑洞排布](docs/preview.jpg)
 
 ## 特性
 
