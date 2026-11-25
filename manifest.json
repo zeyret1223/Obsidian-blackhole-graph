@@ -1,0 +1,9 @@
+{
+  "id": "blackhole-graph",
+  "name": "Black Hole Graph",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "黑洞吸积盘风格的关系图谱：笔记像吸积盘一样围绕中心旋转。只读取链接关系，不会修改任何笔记。",
+  "author": "zeyret",
+  "isDesktopOnly": false
+}
